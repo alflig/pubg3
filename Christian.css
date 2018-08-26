@@ -1,0 +1,115 @@
+body {
+  background-image: url("images/pugb3.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-family: sans-serif;
+
+}
+
+ul {
+  List-style-type: none;
+}
+
+li {
+  display: inline;
+  font-size: 300%;
+  color: white;
+  font-family: sans-serif;
+
+}
+
+iframe {
+
+margin-top: 50px;
+margin-left: 30%;
+
+}
+
+.wrapper{
+border:1px #ccc solid;
+padding-top: 5px;
+padding-bottom: 2px;
+padding-left: 5%;
+border
+
+
+}
+
+.wrapper{
+
+background-color: #2b2b2b
+
+
+}
+
+
+li{
+padding-left: 50px;
+padding-right: 30px;
+
+
+}
+A:hover {
+
+  color: #FFFFFF;
+
+ font-weight: bold  }
+a {
+
+  text-decoration: none;
+}
+h1 {
+  margin: 0;
+}
+
+.header {
+   background-color: #2b2b2b;
+   color: white;
+   text-align: center;
+   padding: 10px;
+}
+
+.container {
+  background-color: white
+  widht: 800px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.content {
+   padding:10px;
+}
+
+.or {
+  width: 300px;
+  float: left;
+  color: black;
+}
+
+.main {
+  width: 600px;
+  float: right;
+  color: black;
+}
+
+.footer {
+  clear: both;
+  padding: 10px;
+  background-color: #999999;
+  color: white;
+  text-align: right;
+}
+
+h2 {
+  text-align: center;
+}
+h2 span{
+  background-color: white;
+}
+
+p {
+  text-align: center;
+}
+p {
+  background-color: white;
+}

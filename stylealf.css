@@ -1,0 +1,43 @@
+body{
+background-color: #bbb;
+
+
+}
+
+.conteinterbig{
+display: flex;
+align-items: flex-start;
+
+
+
+
+
+
+}
+
+.p1{
+background-color: #f4f4f4;
+flex: 1;
+padding-right: 10px;
+padding-left: 10px;
+}
+
+.p2{
+background-color: #f4f4f4;
+adding-right: 10px;
+padding-left: 10px;
+flex: 5;
+margin-right: 40px;
+margin-left: 40px;
+
+}
+
+.p3{
+background-color: #f4f4f4;
+adding-right: 10px;
+padding-left: 10px;
+flex: 1;
+
+
+
+}

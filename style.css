@@ -1,0 +1,77 @@
+
+* {
+    font-family: 'Abel', sans-serif;
+    font-size: 26px;
+
+}
+
+body {
+    background-image: url(images/bg.jpg);
+    box-shadow: 0px 0px 0.5px 0px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    z-index: -5;
+    position:absolute;
+    background-color: rgb(0,0,0,0.1);
+}
+
+.logo {
+    margin-top: 350px;
+    margin-left: 210px;
+    position: absolute;
+    display: block;
+    text-align: center;
+    background-repeat: no-repeat;
+    width: 50%;
+    z-index: 3;
+
+}
+
+h1 {
+    color:antiquewhite;
+    text-align: left;
+    margin: 50px;
+    font-size: 98px;
+    text-shadow: 10px 10px 10px black;
+}
+h2 {
+    color:indianred;
+    font-size: 40px;
+}
+hr{
+    width: 1670px;
+    margin-left: -100px;
+}
+
+p {
+    color:antiquewhite;
+}
+
+u {
+    color:indianred;
+}
+
+/* gallery */
+div.gallery {
+
+    margin: 21px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 180px;
+}
+
+div.gallery:hover {
+    border: 1px solid indianred;
+    color: indianred;
+    box-shadow: 0.5px 0.5px 5.5px 2.5px;
+}
+
+div.gallery img {
+    width: 100%;
+    height: auto;
+}
+
+div.desc {
+    padding: 15px;
+    text-align: center;
+}
